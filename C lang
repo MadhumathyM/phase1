@@ -3,6 +3,7 @@
 #include <conio.h>
 void main()
 {
+printf("welcome to source tree");
 Printf("welcome to source tree");
 Printf("to merge")
 }

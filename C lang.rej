@@ -1,0 +1,9 @@
+diff a/C lang b/C lang	(rejected hunks)
+@@ -3,7 +3,6 @@
+ #include <conio.h>
+ void main()
+ {
+-printf("welcome to source tree");
+ Printf("welcome to source tree");
+ Printf("to merge")
+ }
