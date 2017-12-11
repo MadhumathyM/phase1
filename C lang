@@ -5,6 +5,9 @@ void main()
 {
 printf("welcome to source tree");
 Printf("welcome to source tree");
-Printf("to merge")
+Printf("to merge0");
+Scanf("%d",&a);
+
+Scanf("%d",&b);
 }
 
